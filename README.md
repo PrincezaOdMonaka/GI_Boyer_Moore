@@ -1,4 +1,4 @@
-# GI_Boyer_Moore
+# GI_Boyer_Moore - Project 6
 
 ## Wrapper function
 main.py
